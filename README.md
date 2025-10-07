@@ -9,6 +9,16 @@ AI-Smart-Air-Board is a smart whiteboard application that uses computer vision a
 - **Move & Resize:** Select, move, and resize shapes or text using intuitive gestures.
 - **Gesture Controls:** Switch between drawing and text modes, reset, and exit with keyboard shortcuts.
 
+  ## Demo
+
+[![Watch the demo](demo-thumbnail.png)](demo.mp4)
+
+> Click the image above to watch the demo video.
+
+Or, simply link the video:
+
+[▶️ Watch Demo Video](demo.mp4)
+
 ## Requirements
 
 - Python 3.7+
@@ -72,4 +82,5 @@ MIT License
 
 **Contributors:**  
 - [Vivek Sharma](https://github.com/vivek123eq2858)
+
 
