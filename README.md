@@ -17,7 +17,7 @@ AI-Smart-Air-Board is a smart whiteboard application that uses computer vision a
 
 Or, simply link the video:
 
-[▶️ Watch Demo Video](demo.mp4)
+[▶️ Watch Demo Video](https://github.com/vivek123eq2858/AI-Smart-Air-Board/blob/MyAi-Doctor/WhatsApp%20Video%202025-10-06%20at%2012.49.38_44eed3f1.mp4)
 
 ## Requirements
 
@@ -82,5 +82,6 @@ MIT License
 
 **Contributors:**  
 - [Vivek Sharma](https://github.com/vivek123eq2858)
+
 
 
